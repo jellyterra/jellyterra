@@ -1,11 +1,13 @@
-### :clap: Hey there! Welcome and here is Jerry Terra!
+### :clap: Hey there! Welcome and here is Jelly Tea!
 
-<img align="right" alt="Jerry Terra's GitHub Statistics" width="50%" src="https://github-readme-stats.vercel.app/api?username=jellytea&show_icons=true"/>
+<img align="right" alt="Jelly Tea's GitHub Statistics" width="50%" src="https://github-readme-stats.vercel.app/api?username=jellytea&show_icons=true"/>
 
-- :hammer_and_pick: C, Go, Rust, Kotlin, Qt, Angular, JetBrains IntelliJ
-- :keyboard: GNU/Linux/KDE user.
+- :hammer_and_pick: C, Go, Kotlin, Python. Qt, Angular, IntelliJ.
+- :keyboard: GNU/Linux/KDE user, senior.
 - :video_game: Minecraft
-- :computer: Red Hat series GNU/Linux distribution.
+- :computer: Red Hat series distro. I've used Linux since 2016.
 
-:innocent: - The fucking busy school schedule makes me mad.
 
+I has joined GitHub in 2016 in fact and [here](https://jellytea.github.io/lost-and-not-found/) is the evidence.
+
+The deletion of my past accounts and activities is a great regret for me.
