@@ -6,6 +6,8 @@
 - :keyboard: GNU/Linux/KDE senior user.
 - :video_game: Minecraft
 - :computer: Red Hat series distro. I've used Linux since 2016.
+- :space_invader: Joined GitHub in **Feb 4th, 2017**, UID: 25548159 (deleted)
+- :fox_face: GitLab: [Jelly Tea](https://gitlab.com/jellytea)
 
 ### Bookshelf
 
@@ -25,8 +27,6 @@
 - :open_book: 2023 [ISBN](https://isbnsearch.org/isbn/9787111652144) Computer Organization and Design: The Hardware/Software Interface, RISC-V Edition (5th Edition)
 
 
-I has joined GitHub in **2016** in fact and [here](https://github.com/jellytea/jellytea/blob/main/lost-and-found/mailbox.jpg) is the evidence (earlier mails are gone).
+I has joined GitHub in **2017** in fact and [here](https://github.com/jellytea/jellytea/blob/main/lost-and-found/mailbox.jpg) is the evidence (earlier mails are gone).
 
 The deletion of my past accounts and activities is a **great regret** for me.
-
-GitLab: [Jelly Tea](https://gitlab.com/jellytea)
