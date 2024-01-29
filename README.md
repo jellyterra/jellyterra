@@ -11,6 +11,8 @@
 - :space_invader: Joined GitHub in **Feb 4th, 2017**, UID: 25548159 (deleted)
 - :fox_face: GitLab: [Jelly Tea](https://gitlab.com/jellytea)
 
+[![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@jellytea:gitter.im&color=blue&style=flat-square)](https://matrix.to/#/@jellytea:gitter.im)
+
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=jellytea&theme=vue-dark&hide_border=true" target="_blank">
     <img align="right" width="40%" alt="Jelly Tea's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jellytea&theme=vue-dark&hide_border=true"/>
 </a>
