@@ -4,18 +4,31 @@
     <img align="right" width="40%" alt="Jelly Tea's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=jellytea&show_icons=true"/>
 </a>
 
-- :hammer_and_pick: Go, C/C++, Scala, Kotlin, Python. Qt, Angular, IntelliJ.
-- :keyboard: GNU/Linux/KDE senior user.
-- :video_game: Minecraft
+- :blue_heart: [MBTI](https://www.16personalities.com/istp-personality): ISTP
+- :hammer_and_pick: Go, C/C++, Scala, Kotlin, Python, Rust; Qt, Vue.JS
+- :atom: STM32, ESP32, FPGA
+- :keyboard: Fedora/KDE senior user since 2020.
+- :video_game: Minecraft, WebLiero
 - :computer: Red Hat series distro. I've used Linux since 2016.
 - :space_invader: Joined GitHub in **Feb 4th, 2017**, UID: 25548159 (deleted)
 - :fox_face: GitLab: [Jelly Tea](https://gitlab.com/jellytea)
 
-[![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@jellytea:gitter.im&color=blue&style=flat-square)](https://matrix.to/#/@jellytea:gitter.im)
-
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=jellytea&theme=vue-dark&hide_border=true" target="_blank">
     <img align="right" width="40%" alt="Jelly Tea's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jellytea&theme=vue-dark&hide_border=true"/>
 </a>
+
+[![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@jellytea:gitter.im&color=blue&style=flat-square)](https://matrix.to/#/@jellytea:gitter.im)
+
+I am working on:
+
+- Compilers
+- Digital hardware design
+- DIY STM32-based applications with KiCad
+- Productivity and automation tools
+
+I am stilling developing my blog system, I don't know when I will finish it.
+
+I have lost all trace of my past about coding during 2017-2020 due to account deletion.
 
 ### Bookshelf
 
@@ -34,6 +47,22 @@
 - :open_book: 2022 [ISBN](https://isbnsearch.org/isbn/9787111631972) Gettings started with LLVM core libraries
 - :open_book: 2023 [ISBN](https://isbnsearch.org/isbn/9787111652144) Computer Organization and Design: The Hardware/Software Interface, RISC-V Edition (5th Edition)
 
+### lost+found
+
+***The less you have, the more you fear losing.***
+
+Writing about my past, is my way of making peace with my past.
+
+Here are the ideas and repos I've **dropped in the past**:
+
+- **2018 On-EasyAccess**<br/>A failed xml-based database program that failed in a competition held by the city.
+- **2018 LangVM Project**<br/>Motivated to create a purely functional high-level VM as an alternative to the JVM, and provide native compilation support at the same time.<br/>The thing beyond my mind is: it has similar inspiration and motivation with LLVM's. I didn't know about this thing that time. [(The last paragraph in Page 3, Chapter Perface)](https://isbnsearch.org/isbn/9781782166924)
+- **2018 Lava, Oops, Cheese** programming languages etc<br/>VM-level assembly, high-level programming languages designed for LangVM.
+- **2019 Ketchup**: a simple graphics engine based on OpenGL.
+- **2019 Divine Comedy and Reality**<br/>Make the story and three realms of Divine Comedy into a game. I found that I have no enough ability to do it that time and now. **I hope someone/producer can do it for me.**
+
+Which I **picked up again** from the list above:
+- 2023 [LangVM Project](https://github.com/langvm)
 
 I has joined GitHub in **2017** in fact and [here](https://github.com/jellytea/jellytea/blob/main/lost-and-found/mailbox.jpg) is the evidence (earlier mails are gone).
 
