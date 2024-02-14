@@ -17,7 +17,8 @@
     <img align="right" width="40%" alt="Jelly Tea's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jellytea&theme=vue-dark&hide_border=true"/>
 </a>
 
-[![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@jellytea:gitter.im&color=blue&style=flat-square)](https://matrix.to/#/@jellytea:gitter.im)
+- [![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@jellytea:gitter.im&color=blue&style=flat-square)](https://matrix.to/#/@jellytea:gitter.im)
+- [![E-mail](https://img.shields.io/static/v1?label=E-mail&message=sip2uuvcy@mozmail.com&color=blue&style=flat-square)](mailto:sip2uuvcy@mozmail.com)
 
 I am working on:
 
