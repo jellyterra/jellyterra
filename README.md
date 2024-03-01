@@ -31,6 +31,9 @@ I am stilling developing my blog system, I don't know when I will finish it.
 
 I have lost all trace of my past about coding during 2017-2020 due to account deletion.
 
+### Security Notices
+- Mar 1, 2024: I lost the GPG keypair 8A4D52DC8F884F06, all commits signed with it are marked "Unverified".
+
 ### Bookshelf
 
 - :open_book: 2017 [ISBN](https://isbnsearch.org/isbn/9787115290366) Go语言编程
