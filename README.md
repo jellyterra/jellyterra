@@ -4,7 +4,7 @@
     <img align="right" width="40%" alt="Jelly Tea's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=jellytea&show_icons=true"/>
 </a>
 
-- :blue_heart: [MBTI](https://www.16personalities.com/istp-personality): ISTP
+- :blue_heart: MBTI: ISTP [[Virtuoso]](https://www.16personalities.com/istp-personality)
 - :hammer_and_pick: Go, C/C++, Scala, Kotlin, Python, Rust; Qt, Vue.JS
 - :atom: STM32, ESP32, FPGA
 - :keyboard: Fedora/KDE senior user since 2020.
@@ -16,9 +16,6 @@
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=jellytea&theme=vue-dark&hide_border=true" target="_blank">
     <img align="right" width="40%" alt="Jelly Tea's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jellytea&theme=vue-dark&hide_border=true"/>
 </a>
-
-- [![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@jellytea:gitter.im&color=blue&style=flat-square)](https://matrix.to/#/@jellytea:gitter.im)
-- [![E-mail](https://img.shields.io/static/v1?label=E-mail&message=sip2uuvcy@mozmail.com&color=blue&style=flat-square)](mailto:sip2uuvcy@mozmail.com)
 
 I am working on:
 
