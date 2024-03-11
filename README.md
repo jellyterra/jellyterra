@@ -24,7 +24,7 @@ I am working on:
 - DIY STM32-based applications with KiCad
 - Productivity and automation tools
 
-I am stilling developing my blog system, I don't know when I will finish it.
+I am stilling developing my blog system, I don't know when will I finish it.
 
 I have lost all trace of my past about coding during 2017-2020 due to account deletion.
 
@@ -32,6 +32,8 @@ I have lost all trace of my past about coding during 2017-2020 due to account de
 - Mar 1, 2024: I lost the GPG keypair 8A4D52DC8F884F06, all commits signed with it are marked "Unverified".
 
 ### Bookshelf
+
+:open_book: Beneficiary of Z-Library since 2023
 
 - :open_book: 2017 [ISBN](https://isbnsearch.org/isbn/9787115290366) Go语言编程
 - :open_book: 2017 [ISBN](https://isbnsearch.org/isbn/9787115452511) Go并发编程实战
