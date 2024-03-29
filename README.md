@@ -1,20 +1,20 @@
-### 👏 Hey there! Welcome and here is Jelly Tea!
+### 👏 Hey there! Welcome and here is Jelly Terra!
 
-<a href="https://github-readme-stats.vercel.app/api?username=jellytea&show_icons=true" target="_blank">
-    <img align="right" width="40%" alt="Jelly Tea's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=jellytea&show_icons=true"/>
+<a href="https://github-readme-stats.vercel.app/api?username=jellyterra&show_icons=true" target="_blank">
+    <img align="right" width="40%" alt="Jelly Terra's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=jellyterra&show_icons=true"/>
 </a>
 
 -   💙 MBTI: ISTP [\[Virtuoso\]](https://www.16personalities.com/istp-personality)
 -   ⚒️ Go, C/C++, Scala, Kotlin, Python, Rust
--   :atom: STM32, ESP32, FPGA
+-   ⚛ STM32, ESP32, FPGA
 -   ⌨️ Fedora/KDE user since 2020.
 -   💻 I started using Linux in 2016.
 -   🎮 Minecraft, WebLiero
 -   👾 Joined GitHub in **Feb 4th, 2017**, UID: 25548159 (deleted)
 -   🦊 GitLab: [Jelly Tea](https://gitlab.com/jellytea)
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=jellytea&theme=vue-dark&hide_border=true" target="_blank">
-    <img align="right" width="40%" alt="Jelly Tea's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jellytea&theme=vue-dark&hide_border=true"/>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=jellyterra&theme=vue-dark&hide_border=true" target="_blank">
+    <img align="right" width="40%" alt="Jelly Terra's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jellyterra&theme=vue-dark&hide_border=true"/>
 </a>
 
 I am working on:
@@ -70,10 +70,10 @@ I've lost all trace of my past activities during 2017-2020 due to account deleti
 
 - 📖 2017 [ISBN](https://isbnsearch.org/isbn/9787115290366) Go语言编程
 - 📖 2017 [ISBN](https://isbnsearch.org/isbn/9787115452511) Go并发编程实战
-- 📖 2018 [ISBN](https://isbnsearch.org/isbn/9787115130228) C Primer Plus (5th Edition)^ primary school graduation gift from my teacher Zhang
+- 📖 2018 [ISBN](https://isbnsearch.org/isbn/9787115130228) C Primer Plus (5th Edition)<br/>^ primary school graduation gift from my teacher Zhang
 - 📖 2018 [ISBN](https://isbnsearch.org/isbn/9787111421900) Understainding the JVM: Advanced Features and Best Practices (2nd Edition)
 - 📖 2018 [ISBN](https://isbnsearch.org/isbn/9787508353944) Understanding the Linux Kernel (3rd Edition)
-- 📖 2019 [ISBN](https://isbnsearch.org/isbn/9787302231578) 电子设计从零开始（第2版）^ gift from [@lizhirui](https://github.com/lizhirui) and his boss Wan
+- 📖 2019 [ISBN](https://isbnsearch.org/isbn/9787302231578) 电子设计从零开始（第2版）<br/>^ gift from [@lizhirui](https://github.com/lizhirui) and his employer Wan
 - 📖 2019 [ISBN](https://isbnsearch.org/isbn/9787111575115) OpenGL Programming Guide (9th Edition)
 - 📖 2019 [ISBN](https://isbnsearch.org/isbn/9787111251217) Compilers: Principles, Techniques and Tools (2nd Edition)
 - 📖 2020 [ISBN](https://isbnsearch.org/isbn/9787121246142) Computer Graphics with OpenGL (4th Edition)
@@ -114,6 +114,6 @@ Which I **picked up again** from the list above:
 
 *   2023 [LangVM Project](https://github.com/langvm)
 
-I has joined GitHub in **2017** in fact and [here](https://github.com/jellytea/jellytea/blob/main/lost-and-found/mailbox.jpg) is the evidence (earlier mails are gone).
+I has joined GitHub in **2017** in fact and [here](https://github.com/jellyterra/jellyterra/blob/main/lost-and-found/mailbox.jpg) is the evidence (earlier mails are gone).
 
 The deletion of my past accounts and activities is a **great regret** for me.
