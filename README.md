@@ -17,7 +17,7 @@
     <img align="right" width="40%" alt="Jelly Terra's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jellyterra&theme=vue-dark&hide_border=true"/>
 </a>
 
-I am working on:
+I am learning and working on:
 
 *   Compiler and program analysis
 
@@ -49,6 +49,13 @@ I am working on:
 ![](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
 
 I've lost all trace of my past activities during 2017-2020 due to account deletion.
+
+### Media
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/443340304)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/t7l8rdnzrcne9lcgnp97hlk4b)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300.svg?style=for-the-badge&logo=SoundCloud&logoColor=white)](https://soundcloud.com/jellyterra)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
 
 ### Contact
 
