@@ -1,7 +1,7 @@
 ### 👏 Hey there! Welcome and here is Jelly Terra!
 
-<a href="https://github-readme-stats.vercel.app/api?username=jellyterra&show_icons=true" target="_blank">
-    <img align="right" width="40%" alt="Jelly Terra's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=jellyterra&show_icons=true"/>
+<a href="" target="_blank">
+    <img align="right" width="40%" title="Jelly Terra's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=jellyterra&show_icons=true"/>
 </a>
 
 -   💙 MBTI: ISTP [\[Virtuoso\]](https://www.16personalities.com/istp-personality)
@@ -13,8 +13,8 @@
 -   👾 Joined GitHub in **Feb 4th, 2017**, UID: 25548159 (deleted)
 -   🦊 GitLab: [Jelly Tea](https://gitlab.com/jellytea)
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=jellyterra&theme=vue-dark&hide_border=true" target="_blank">
-    <img align="right" width="40%" alt="Jelly Terra's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jellyterra&theme=vue-dark&hide_border=true"/>
+<a href="" target="_blank">
+    <img align="right" width="40%" title="Jelly Terra's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jellyterra&theme=vue-dark&hide_border=true"/>
 </a>
 
 I am learning and working on:
@@ -49,6 +49,10 @@ I am learning and working on:
 ![](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
 
 I've lost all trace of my past activities during 2017-2020 due to account deletion.
+
+<a href="" target="_blank">
+    <img align="right" width="40%" title="Jelly Terra's README.md views since Apr 4, 2024" src="https://count.getloli.com/get/@jellyterra?theme=moebooru/">
+</a>
 
 ### Media
 
