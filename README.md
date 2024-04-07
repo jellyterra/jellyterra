@@ -65,7 +65,7 @@ I've lost all trace of my past activities during 2017-2020 due to account deleti
 
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jellyterra)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/BHjax2qdWn)
-[![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://matrix.to/#/@jellytea:gitter.im)
+[![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://matrix.to/#/@jellyterra:gitter.im)
 
 ### Sponsor
 
