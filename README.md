@@ -29,6 +29,8 @@ I am learning and working on:
 
 *   Productivity and automation tools
 
+My knowledge in these is still shallow. Any guidance would be greatly appreciated. :D
+
 ![](https://img.shields.io/badge/Fedora%20Linux-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
 ![](https://img.shields.io/badge/KDE%20Plasma-1C94EB.svg?style=for-the-badge&logo=KDE&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-1C94EB.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
@@ -63,6 +65,9 @@ I've lost all trace of my past activities during 2017-2020 due to account deleti
 
 ### Contact
 
+> Zeit und Raum trennen dich und mich.<br/>
+> Informatik verbindet dich und mich.
+
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jellyterra)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/BHjax2qdWn)
 [![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://matrix.to/#/@jellyterra:gitter.im)
@@ -78,7 +83,13 @@ I've lost all trace of my past activities during 2017-2020 due to account deleti
 
 ### Bookshelf
 
-**The gears of fate begin to turn.**
+I do **not** have finished reading all of these books, some just got started or are in the process of being read.
+
+These are the paper books I own below. My reading has switched to e-books to save costs since 2023.
+
+Due to an HTML book, my 1st GitHub account is registered (2017) for Pages.
+
+**The gears of fate begin to turn**
 
 - 📖 2017 [ISBN](https://isbnsearch.org/isbn/9787115290366) Go语言编程
 - 📖 2017 [ISBN](https://isbnsearch.org/isbn/9787115452511) Go并发编程实战
@@ -95,37 +106,51 @@ I've lost all trace of my past activities during 2017-2020 due to account deleti
 - 📖 2022 [ISBN](https://isbnsearch.org/isbn/9787111631972) Gettings started with LLVM core libraries
 - 📖 2023 [ISBN](https://isbnsearch.org/isbn/9787111652144) Computer Organization and Design: The Hardware/Software Interface, RISC-V Edition (5th Edition)
 
-📖 Beneficiary of Z-Library since 2023
-
-📖 Beneficiary of Anna's Archive since 2024
+Beneficiary of Z-Library since 2023 and Anna's Archive since 2024
 
 ### lost+found
 
 ***The less you have, the more you fear losing.***
 
-Writing about my past, is my way of making peace with my past.
+Writing about past, is my way of making peace with past self, a way to comfort myself.
 
-Here are the ideas and repos I've **dropped in the past**:
+Here are the ideas and repos I've **dropped** in the past. Most of them were just ideas and had not been fully implemented:
 
-*   **2018 On-EasyAccess**<br/>
-A failed xml-based database program that failed in a competition held by the city.
+> **2018 On-EasyAccess**
+>
+> A **failed** xml-based database Go program that **failed** in a competition held by the city.
+>
+> But it is one of the important bonds with the info-tech teacher Zhang in the last semester of my primary school time.
 
-*   **2018 LangVM Project**<br/>
-Motivated to create a purely functional high-level VM as an alternative to the JVM, and provide native compilation support at the same time.The thing beyond my mind is: it has similar inspiration and motivation with LLVM's. I didn't know about this thing that time. [(The last paragraph in Page 3, Chapter Perface)](https://isbnsearch.org/isbn/9781782166924)
+> **2018 LangVM Project**, which is different with 2023 [one](https://github.com/langvm/).
+>
+> Motivated to create a purely functional high-level VM as an alternative to the JVM, and provide native compilation support at the same time.
+>
+> The thing beyond my mind is: it has similar inspiration and motivation with LLVM's, but I didn't know about it that time! [(The last paragraph in Page 3, Preface)](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/course/spring2018/CS131/llvm.pdf)
+>
+> As of the time the repository was removed, only an untested interpreter was implemented. LOL
+>
+> Luckily, there is a Chrome offline webpage capture taken in 2019 saved on my cloud drive. I uploaded it and can be found [here](https://github.com/jellyterra/jellyterra/tree/main/lost-and-found/).
+>
 
-*   **2018 Lava, Oops, Cheese etc.**<br/>
-VM-level assembly, high-level programming languages designed for LangVM.
+> **2018 Lava, Oops, Cheese etc.**
+>
+> VM-level assembly, high-level and even localized programming languages designed for LangVM.
+>
+> This is why I bought the "dragon book".
 
-*   **2019 Ketchup Graphics**<br/>
-A simple graphics engine based on OpenGL.
+> **2019 Ketchup Graphics**
+>
+> A simple graphics engine based on OpenGL.
+>
+> This is why I bought the books about OpenGL. But today we should use Vulkan. xD
 
-*   **2019 Divine Comedy and Reality**<br/>
-Make the story and three realms of Divine Comedy into a game. I found that I have no enough ability to do it that time and now. **I hope someone/producer can do it for me.**
+> **2019 Divine Comedy and Reality**
+>
+> Make the story and three realms of Divine Comedy into a game. I found that I was not able to do it that time -- even will never be. **I hope someone/producer can do it.** (for me)
 
-Which I **picked up again** from the list above:
+The deletion of my past accounts and activities is a **great regret** for me, which I must to get out from.
 
-*   2023 [LangVM Project](https://github.com/langvm)
+2023 means a lot to me. New domains, fantastic mates, inspiring future ...
 
-I has joined GitHub in **2017** in fact and [here](https://github.com/jellyterra/jellyterra/blob/main/lost-and-found/mailbox.jpg) is the evidence (earlier mails are gone).
-
-The deletion of my past accounts and activities is a **great regret** for me.
+***It is a rebirth, a new beginning ...***
