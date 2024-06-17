@@ -19,7 +19,9 @@
 
 I am learning and working on:
 
-*   Compiler and program analysis
+*   Compiler, program analysis
+
+*   Logical verification.
 
 *   Digital hardware design
 
@@ -29,7 +31,11 @@ I am learning and working on:
 
 *   Productivity and automation tools
 
-My knowledge in these is still shallow. Any guidance would be greatly appreciated. :D
+I have mainly focused on learning hardware architecture and PL theory in recent years.<br/>
+My knowledge in these is still shallow. Any guidance would be greatly appreciated! **>:3**
+
+Life is short. Three twenty of years is not enough to do many things.<br/>
+I hope my life to be fulfilling and to achieve as many things as possible.
 
 ![](https://img.shields.io/badge/Fedora%20Linux-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
 ![](https://img.shields.io/badge/KDE%20Plasma-1C94EB.svg?style=for-the-badge&logo=KDE&logoColor=white)
@@ -40,6 +46,7 @@ My knowledge in these is still shallow. Any guidance would be greatly appreciate
 ![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/Go-00A7D0.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+![](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)
 ![](https://img.shields.io/badge/Rust-FFC832.svg?style=for-the-badge&logo=Rust&logoColor=black)
 ![](https://img.shields.io/badge/C/C++-F34B7D.svg?style=for-the-badge&logo=CPlusPlus&logoColor=white)
 ![](https://img.shields.io/badge/Scala-D73222.svg?style=for-the-badge&logo=Scala&logoColor=white)
@@ -68,7 +75,7 @@ I've lost all trace of my past activities during 2017-2020 due to account deleti
 > Zeit und Raum trennen dich und mich.<br/>
 > Informatik verbindet dich und mich.
 
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jellyterra)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/jellyterra)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/BHjax2qdWn)
 [![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://matrix.to/#/@jellyterra:gitter.im)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/jellyterra)
