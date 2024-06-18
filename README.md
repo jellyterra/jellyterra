@@ -61,7 +61,7 @@ I've lost all trace of my past activities during 2017-2020 due to account deleti
     <img align="right" width="40%" title="Jelly Terra's README.md views since Apr 4, 2024" src="https://count.getloli.com/get/@jellyterra?theme=moebooru/">
 </a>
 
-## Navigation
+### Navigation
 
 Project organizations.
 
