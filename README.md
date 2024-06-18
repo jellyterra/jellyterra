@@ -19,9 +19,7 @@
 
 I am learning and working on:
 
-*   Compiler, program analysis
-
-*   Logical verification.
+*   Compilers and program analysis
 
 *   Digital hardware design
 
@@ -62,6 +60,19 @@ I've lost all trace of my past activities during 2017-2020 due to account deleti
 <a href="" target="_blank">
     <img align="right" width="40%" title="Jelly Terra's README.md views since Apr 4, 2024" src="https://count.getloli.com/get/@jellyterra?theme=moebooru/">
 </a>
+
+## Navigation
+
+Project organizations.
+
+| Name                                            | Description             |
+|-------------------------------------------------|-------------------------|
+| [LangVM](https://github.com/langvm)             | Compiler infrastructure |
+| [JetERA](https://github.com/jetera-creative)    | Circuit board designs   |
+| [Symonarch](https://github.com/symonarch)       | Hardware designs        |
+| [Circuitrus](https://github.com/circuitrus)     | EDA                     |
+| [Pagine](https://github.com/webpagine)          | Web generator           |
+| [Holiday Paint](https://github.com/paint-board) | Public canvas           | 
 
 ### Media
 
