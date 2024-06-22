@@ -29,11 +29,12 @@ I am learning and working on:
 
 *   Productivity and automation tools
 
-I have mainly focused on learning hardware architecture and PL theory in recent years.<br/>
-My knowledge in these is still shallow. Any guidance would be greatly appreciated! **>:3**
+I have mainly focused on learning hardware architecture and PL theory since 2023.
 
-Life is short. Three twenty of years is not enough to do many things.<br/>
-I hope my life to be fulfilling and to achieve as many things as possible.
+But my knowledge in these is still shallow. I CRAVE GUIDANCE! **:D**
+
+Life is short. Three twenty of years is not enough to do many things.
+I hope my life to be fulfilling and my visions about technologies and society to become true.
 
 ![](https://img.shields.io/badge/Fedora%20Linux-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
 ![](https://img.shields.io/badge/KDE%20Plasma-1C94EB.svg?style=for-the-badge&logo=KDE&logoColor=white)
@@ -61,6 +62,22 @@ I've lost all trace of my past activities during 2017-2020 due to account deleti
     <img align="right" width="40%" title="Jelly Terra's README.md views since Apr 4, 2024" src="https://count.getloli.com/get/@jellyterra?theme=moebooru/">
 </a>
 
+### Contact
+
+> Zeit und Raum trennen dich und mich.<br/>
+> Informatik verbindet dich und mich.
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/jellyterra)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/BHjax2qdWn)
+[![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://matrix.to/#/@jellyterra:gitter.im)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/jellyterra)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/443340304)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/t7l8rdnzrcne9lcgnp97hlk4b)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300.svg?style=for-the-badge&logo=SoundCloud&logoColor=white)](https://soundcloud.com/jellyterra)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
+
+
 ### Navigation
 
 Project organizations.
@@ -73,23 +90,6 @@ Project organizations.
 | [Circuitrus](https://github.com/circuitrus)     | EDA                     |
 | [Pagine](https://github.com/webpagine)          | Web generator           |
 | [Holiday Paint](https://github.com/paint-board) | Public canvas           | 
-
-### Media
-
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/443340304)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/t7l8rdnzrcne9lcgnp97hlk4b)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300.svg?style=for-the-badge&logo=SoundCloud&logoColor=white)](https://soundcloud.com/jellyterra)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
-
-### Contact
-
-> Zeit und Raum trennen dich und mich.<br/>
-> Informatik verbindet dich und mich.
-
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/jellyterra)
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/BHjax2qdWn)
-[![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://matrix.to/#/@jellyterra:gitter.im)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/jellyterra)
 
 ### Sponsor
 
