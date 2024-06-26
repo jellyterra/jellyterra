@@ -14,7 +14,7 @@
 -   🦊 GitLab: [Jelly Tea](https://gitlab.com/jellytea)
 
 <a href="" target="_blank">
-    <img align="right" width="40%" title="Jelly Terra's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jellyterra&theme=vue-dark&hide_border=true"/>
+    <img align="right" width="40%" title="Jelly Terra's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact"/>
 </a>
 
 I am learning and working on:
