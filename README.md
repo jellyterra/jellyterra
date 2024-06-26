@@ -1,7 +1,7 @@
 ### 👏 Hey there! Welcome and here is Jelly Terra!
 
 <a href="" target="_blank">
-    <img align="right" width="40%" title="Jelly Terra's GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=jellyterra&show_icons=true"/>
+    <img align="right" width="45%" title="Jelly Terra's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact"/>
 </a>
 
 -   💙 MBTI: ISTP [\[Virtuoso\]](https://www.16personalities.com/istp-personality)
@@ -12,10 +12,6 @@
 -   🎮 Minecraft, WebLiero
 -   👾 Joined GitHub in **Feb 4th, 2017**, UID: 25548159 (deleted)
 -   🦊 GitLab: [Jelly Tea](https://gitlab.com/jellytea)
-
-<a href="" target="_blank">
-    <img align="right" width="40%" title="Jelly Terra's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact"/>
-</a>
 
 I am learning and working on:
 
