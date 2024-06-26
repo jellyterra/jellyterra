@@ -1,8 +1,6 @@
 ### 👏 Hey there! Welcome and here is Jelly Terra!
 
-<a href="" target="_blank">
-    <img align="right" width="45%" title="Jelly Terra's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact"/>
-</a>
+<a href="https://wakatime.com/@jellyterra" target="_blank"><img align="right" width="50%" title="Jelly Terra's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact"/></a>
 
 -   💙 MBTI: ISTP [\[Virtuoso\]](https://www.16personalities.com/istp-personality)
 -   ⚒️ Go, C/C++, Scala, Kotlin, Python, Rust
