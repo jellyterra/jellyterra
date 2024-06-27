@@ -10,7 +10,7 @@
 -   🎮 Minecraft, WebLiero
 -   👾 Joined GitHub in **Feb 4th, 2017**, UID: 25548159 (deleted)
 -   🦊 GitLab: [Jelly Tea](https://gitlab.com/jellytea)
--   
+
 <a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" title="Jelly Terra's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact"/></a>
 
 I am learning and working on:
