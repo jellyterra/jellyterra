@@ -119,6 +119,8 @@ Due to an HTML book, my 1st GitHub account is registered (2017) for Pages.
 - 📖 2022 [ISBN](https://isbnsearch.org/isbn/9787111544937) Computer Systems: Aprogrammer's Perspective (3rd Edition)
 - 📖 2022 [ISBN](https://isbnsearch.org/isbn/9787111631972) Gettings started with LLVM core libraries
 - 📖 2023 [ISBN](https://isbnsearch.org/isbn/9787111652144) Computer Organization and Design: The Hardware/Software Interface, RISC-V Edition (5th Edition)
+- 📖 2024 [ISBN](https://isbnsearch.org/isbn/9787115565693) Computer Architecture: A Quantitative Approach (6th Edition)
+- 📖 2024 [ISBN](https://isbnsearch.org/isbn/9787111697404) Pratical Foundations for Progrtamming Languages (2nd Edition)
 
 Beneficiary of Z-Library since 2023 and Anna's Archive since 2024
 
