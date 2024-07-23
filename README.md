@@ -9,7 +9,7 @@
 -   💻 I started using Linux in 2016.
 -   🎮 Minecraft, WebLiero
 -   👾 Joined GitHub in **Feb 4th, 2017**, UID: 25548159 (deleted)
--   🦊 GitLab: [Jelly Tea](https://gitlab.com/jellytea)
+-   🦊 GitLab: [Jelly Terra](https://gitlab.com/jellyterra)
 
 <a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" title="Jelly Terra's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact"/></a>
 
@@ -120,7 +120,7 @@ Due to an HTML book, my 1st GitHub account is registered (2017) for Pages.
 - 📖 2022 [ISBN](https://isbnsearch.org/isbn/9787111631972) Gettings started with LLVM core libraries
 - 📖 2023 [ISBN](https://isbnsearch.org/isbn/9787111652144) Computer Organization and Design: The Hardware/Software Interface, RISC-V Edition (5th Edition)
 - 📖 2024 [ISBN](https://isbnsearch.org/isbn/9787115565693) Computer Architecture: A Quantitative Approach (6th Edition)
-- 📖 2024 [ISBN](https://isbnsearch.org/isbn/9787111697404) Pratical Foundations for Progrtamming Languages (2nd Edition)
+- 📖 2024 [ISBN](https://isbnsearch.org/isbn/9787111697404) Pratical Foundations for Programming Languages (2nd Edition)
 
 Beneficiary of Z-Library since 2023 and Anna's Archive since 2024
 
