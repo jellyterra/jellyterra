@@ -12,15 +12,11 @@
 
 I am learning and working on:
 
-*   Compilers and program analysis
-
-*   Digital hardware design
-
-*   DIY circuit boards and applications with KiCad
-
-*   Infrastructure
-
-*   Productivity and automation tools
+-   Compilers and program analysis
+-   Digital hardware design
+-   DIY circuit boards and applications
+-   Infrastructure
+-   Productivity and automation tools
 
 I have mainly focused on learning hardware architecture and PL theory since 2023.
 
@@ -95,3 +91,7 @@ Project organizations.
 ### Security Notices
 
 - Mar 1, 2024: I lost the GPG keypair 8A4D52DC8F884F06, all commits signed with it are marked "Unverified".
+
+## More
+
+Check my website: [jellyterra.com](https://jellyterra.com)
