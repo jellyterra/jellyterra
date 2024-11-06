@@ -1,6 +1,7 @@
 ### 👏 Hey there! Welcome and here is Jelly Terra!
 
 <a href="https://jellyterra.com"><img align="right" width="50%" title="JellyTerra's Stats" src="https://github-readme-stats.vercel.app/api?username=jellyterra&show_icons=true&theme=radical"/></a>
+<a href="https://jellyterra.com"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/></a>
 
 -   💙 MBTI: ISTP [\[Virtuoso\]](https://www.16personalities.com/istp-personality)
 -   ⚒️ Go, Scala, Kotlin, Rust, Lean, OCaml, Julia
