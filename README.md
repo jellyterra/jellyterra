@@ -93,7 +93,7 @@ Project organizations.
 
 ### Bookshelf
 
-These are the paper books I own below. My reading has switched to e-books to save costs since 2023.
+These are the paper books I own below. My reading has switched to e-books from **shadow libraries** to save costs since 2023.
 
 Due to an HTML book, my 1st GitHub account is registered (2017) for Pages.
 
@@ -115,7 +115,6 @@ Due to an HTML book, my 1st GitHub account is registered (2017) for Pages.
 - 📖 2024 [ISBN](https://isbnsearch.org/isbn/9787115565693) Computer Architecture: A Quantitative Approach (6th Edition)
 - 📖 2024 [ISBN](https://isbnsearch.org/isbn/9787111697404) Pratical Foundations for Programming Languages (2nd Edition)
 - 📖 2024 [ISBN](https://isbnsearch.org/isbn/9787308249591) RISC-V CPU 芯片设计：香山源代码剖析<br/>^ got on the **RISC-V Summit China 2024** Day 2 activity **香山 Tutorial**
-Beneficiary of Z-Library since 2023 and Anna's Archive since 2024
 
 ### lost+found
 
