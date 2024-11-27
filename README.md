@@ -6,7 +6,7 @@
 -   💙 MBTI: ISTP [\[Virtuoso\]](https://www.16personalities.com/istp-personality)
 -   ⚒️ Go, Scala, Kotlin, Rust, Lean, OCaml, Julia
 -   ⚛ STM32, ESP32, FPGA
--   ⌨️ Fedora/KDE. Linux user since 2016.
+-   ⌨️ NixOS/KDE. Linux user since 2016.
 -   🎮 Minecraft, WebLiero
 -   👾 Joined GitHub in **Feb 4th, 2017**, UID: 25548159 (deleted)
 -   🦊 GitLab: [Jelly Terra](https://gitlab.com/jellyterra)
@@ -28,7 +28,7 @@ I hope my life to be fulfilling and my visions about technologies and society to
 
 I've lost all history of my past activities during 2017-2020 due to account deletion.
 
-![](https://img.shields.io/badge/Fedora%20Linux-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
+![](https://img.shields.io/badge/NixOS%20Linux-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![](https://img.shields.io/badge/KDE%20Plasma-1C94EB.svg?style=for-the-badge&logo=KDE&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-1C94EB.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ%20IDEA-EA3C6B.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
