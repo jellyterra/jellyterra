@@ -4,10 +4,7 @@
 <a href="https://wakapi.jellyterra.com"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/></a>
 
 -   💙 MBTI: ISTP [\[Virtuoso\]](https://www.16personalities.com/istp-personality)
--   ⚒️ Go, Scala, Kotlin, Rust, Lean, OCaml, Julia
--   ⚛ STM32, ESP32, FPGA
 -   ⌨️ NixOS/KDE. Linux user since 2016.
--   🎮 Minecraft, WebLiero
 -   👾 Joined GitHub in **Feb 4th, 2017**, UID: 25548159 (deleted)
 -   🦊 GitLab: [Jelly Terra](https://gitlab.com/jellyterra)
 
@@ -30,7 +27,7 @@ I've lost all history of my past activities during 2017-2020 due to account dele
 
 ![](https://img.shields.io/badge/NixOS%20Linux-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![](https://img.shields.io/badge/KDE%20Plasma-1C94EB.svg?style=for-the-badge&logo=KDE&logoColor=white)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-1C94EB.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![](https://img.shields.io/badge/VSCodium-1C94EB.svg?style=for-the-badge&logo=VSCodium&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ%20IDEA-EA3C6B.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 
 ![](https://img.shields.io/badge/Vue-4FC08D.svg?style=for-the-badge&logo=Vuedotjs&logoColor=white)
@@ -43,9 +40,13 @@ I've lost all history of my past activities during 2017-2020 due to account dele
 ![](https://img.shields.io/badge/Scala-D73222.svg?style=for-the-badge&logo=Scala&logoColor=white)
 ![](https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white)
 
+![](https://img.shields.io/badge/ArchLinux-1793D1.svg?style=for-the-badge&logo=ArchLinux&logoColor=white)
+![](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 
+
+![](https://img.shields.io/badge/RISCV-283272.svg?style=for-the-badge&logo=RISC-V&logoColor=f5b213)
 ![](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
 
