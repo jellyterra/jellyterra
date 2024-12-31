@@ -41,6 +41,7 @@ I have mainly focused on learning hardware architecture and PL theory since 2023
 ![](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 
 
+![](https://img.shields.io/badge/Xilinx%20Zynq-000000.svg?style=for-the-badge&logo=AMD&logoColor=white&logoSize=auto)
 ![](https://img.shields.io/badge/RISCV-283272.svg?style=for-the-badge&logo=RISC-V&logoColor=f5b213)
 ![](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
