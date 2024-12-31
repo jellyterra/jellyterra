@@ -18,12 +18,7 @@ I am learning and working on:
 
 I have mainly focused on learning hardware architecture and PL theory since 2023.
 
-But my knowledge in these is still shallow. I CRAVE GUIDANCE! **:D**
-
-Life is short. Three twenty of years is not enough to do many things.
-I hope my life to be fulfilling and my visions about technologies and society to become true.
-
-I've lost all history of my past activities during 2017-2020 due to account deletion.
+> I've lost all history of my past activities during 2017-2020 due to account deletion.
 
 ![](https://img.shields.io/badge/NixOS%20Linux-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![](https://img.shields.io/badge/KDE%20Plasma-1C94EB.svg?style=for-the-badge&logo=KDE&logoColor=white)
@@ -53,6 +48,9 @@ I've lost all history of my past activities during 2017-2020 due to account dele
 <a href="" target="_blank">
     <img align="right" width="40%" title="Jelly Terra's README.md views since Apr 4, 2024" src="https://count.getloli.com/get/@jellyterra?theme=moebooru/">
 </a>
+
+Life is short. Three twenty of years is not enough to do many things.
+I hope my life to be fulfilling and my visions about technologies and society to become true.
 
 ### Contact
 
