@@ -75,14 +75,16 @@ I hope my life to be fulfilling and my visions about technologies and society to
 
 Project organizations.
 
-| Name                                            | Description             |
-|-------------------------------------------------|-------------------------|
-| [LangVM](https://github.com/langvm)             | Compiler infrastructure |
-| [JetERA](https://github.com/jetera-creative)    | Circuit board designs   |
-| [Symonarch](https://github.com/symonarch)       | Hardware designs        |
-| [Circuitrus](https://github.com/circuitrus)     | EDA                     |
-| [Pagine](https://github.com/webpagine)          | Web generator           |
-| [Holiday Paint](https://github.com/paint-board) | Public canvas           | 
+| Name                                              | Description                            |
+|---------------------------------------------------|----------------------------------------|
+| [LangVM](https://github.com/langvm)               | Compiler infrastructure                |
+| [JetERA](https://github.com/jetera-creative)      | Circuit board designs                  |
+| [Symonarch](https://github.com/symonarch)         | Hardware designs                       |
+| [Circuitrus](https://github.com/circuitrus)       | EDA                                    |
+| [Holiday Paint](https://github.com/paint-board)   | Public canvas                          | 
+| [AutoDNS](https://github.com/autodns)             | Centralized DNS management             | 
+| [Dashanalytics](https://github.com/dashanalytics) | Web traffic analysis                   | 
+| [Pagine](https://github.com/webpagine)            | Web generator (available and archived) |
 
 ### Sponsor
 
