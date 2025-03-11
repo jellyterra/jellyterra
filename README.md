@@ -93,6 +93,7 @@ Project organizations.
 ### Security Notices
 
 - Mar 1, 2024: I lost the GPG keypair 8A4D52DC8F884F06, all commits signed with it are marked "Unverified".
+- Mar 11, 2025: BF657865AA3ABC32 private key lost: I found that the key pair I had exported and overwritten the original key pair file when I renewed and then moved to the hardware token.
 
 ### Bookshelf
 
