@@ -92,76 +92,24 @@ Project organizations.
 
 ### Security Notices
 
-- Mar 1, 2024: I lost the GPG keypair 8A4D52DC8F884F06, all commits signed with it are marked "Unverified".
-- Mar 11, 2025: BF657865AA3ABC32 private key lost: I found that the key pair I had exported and overwritten the original key pair file when I renewed and then moved to the hardware token.
+- 8A4D 52DC 8F88 4F06 on Mar 1, 2024: GPG keypair lost, all commits signed with it are now marked "Unverified".
+- BF65 7865 AA3A BC32 on Mar 11, 2025: private key lost because I exported moved-to-card renewal private key to the same path of expired private key so it's overwritten and gone. **What a pity, I really love this key id sequence!**
+- **E644 440D CB00 0C41** is the GPG key **now in use**.
 
 ### Bookshelf
 
-These are the paper books I own below. My reading has switched to e-books from **shadow libraries** to save costs since 2023.
+[These]((https://www.jellyterra.com) are the paper books I own below. My reading has switched to e-books from **shadow libraries** to save costs since 2023.
 
-Due to an HTML book, my 1st GitHub account is registered (2017) for Pages.
+My first GitHub account was registered in 2017 for GitHub Pages.
 
 **The gears of fate begin to turn**
-- 📖 2017 [ISBN](https://isbnsearch.org/isbn/9787115290366) Go语言编程
-- 📖 2017 [ISBN](https://isbnsearch.org/isbn/9787115452511) Go并发编程实战
-- 📖 2018 [ISBN](https://isbnsearch.org/isbn/9787115130228) C Primer Plus (5th Edition)<br/>^ primary school graduation gift from my teacher Zhang
-- 📖 2018 [ISBN](https://isbnsearch.org/isbn/9787111421900) Understainding the JVM: Advanced Features and Best Practices (2nd Edition)
-- 📖 2018 [ISBN](https://isbnsearch.org/isbn/9787508353944) Understanding the Linux Kernel (3rd Edition)
-- 📖 2019 [ISBN](https://isbnsearch.org/isbn/9787302231578) 电子设计从零开始（第2版）<br/>^ gift from [@lizhirui](https://github.com/lizhirui) and his employer Wan
-- 📖 2019 [ISBN](https://isbnsearch.org/isbn/9787111575115) OpenGL Programming Guide (9th Edition)
-- 📖 2019 [ISBN](https://isbnsearch.org/isbn/9787111251217) Compilers: Principles, Techniques and Tools (2nd Edition)
-- 📖 2020 [ISBN](https://isbnsearch.org/isbn/9787121246142) Computer Graphics with OpenGL (4th Edition)
-- 📖 2020 [ISBN](https://isbnsearch.org/isbn/9787508386980) Tomcat: The Definitive Guide (2nd Edition)
-- 📖 2021 [ISBN](https://isbnsearch.org/isbn/9787121315589) 印制电路板（PCB）设计技术与实践（第三版）
-- 📖 2022 [ISBN](https://isbnsearch.org/isbn/9787111544937) Computer Systems: Aprogrammer's Perspective (3rd Edition)
-- 📖 2022 [ISBN](https://isbnsearch.org/isbn/9787111631972) Gettings started with LLVM core libraries
-- 📖 2023 [ISBN](https://isbnsearch.org/isbn/9787111652144) Computer Organization and Design: The Hardware/Software Interface, RISC-V Edition (5th Edition)
-- 📖 2024 [ISBN](https://isbnsearch.org/isbn/9787115565693) Computer Architecture: A Quantitative Approach (6th Edition)
-- 📖 2024 [ISBN](https://isbnsearch.org/isbn/9787111697404) Pratical Foundations for Programming Languages (2nd Edition)
-- 📖 2024 [ISBN](https://isbnsearch.org/isbn/9787308249591) RISC-V CPU 芯片设计：香山源代码剖析<br/>^ got on the **RISC-V Summit China 2024** Day 2 activity **香山 Tutorial**
 
 ### lost+found
 
-***The less you have, the more you fear lossing.***
+Writing about my past, is my way of making peace with self, a way to comfort self.
 
-Writing about past, is my way of making peace with past self, a way to comfort myself.
+[Here](https://www.jellyterra.com) are the ideas and repos I've **dropped** in the past. Most of them were just ideas and had not been fully implemented.
 
-Here are the ideas and repos I've **dropped** in the past. Most of them were just ideas and had not been fully implemented:
-
-> **2018 On-EasyAccess**
->
-> A **failed** xml-based database Go program that **failed** in a competition held by the city.
->
-> But it is one of the important bonds with the info-tech teacher Zhang in the last semester of my primary school time.
-> **2018 LangVM Project**, which is different with 2023 [one](https://github.com/langvm/).
->
-> Motivated to create a purely functional high-level VM as an alternative to the JVM, and provide native compilation support at the same time.
->
-> The thing beyond my mind is: it has similar inspiration and motivation with LLVM's, but I didn't know about it that time! [(The last paragraph in Page 3, Preface)](https://faculty.sist.shanghaitech.edu.cn/faculty/songfu/course/spring2018/CS131/llvm.pdf)
->
-> As of the time the repository was removed, only an untested interpreter was implemented. LOL
->
-> Luckily, there is a Chrome offline webpage capture taken in 2019 saved on my cloud drive. I uploaded it and can be found [here](https://github.com/jellyterra/jellyterra/tree/main/lost-and-found/).
->
-
-> **2018 Lava, Oops, Cheese etc.**
->
-> VM-level assembly, high-level and even localized programming languages designed for LangVM.
->
-> This is why I bought the "dragon book".
-
-> **2019 Ketchup Graphics**
->
-> A simple graphics engine based on OpenGL.
->
-> This is why I bought the books about OpenGL. But today we should use Vulkan. xD
-
-> **2019 Divine Comedy and Reality**
->
-> Make the story and three realms of Divine Comedy into a game. I found that I was not able to do it that time -- even will never be. **I hope someone/producer can do it.** (for me)
-The deletion of my past accounts and activities is a **great regret** for me, which I must to get out from.
-2023 means a lot to me. New domains, fantastic mates, inspiring future ...
-
-2023 means a lot to me. New domains, fantastic mates, inspiring future ...
+And all the passion came back again since 2023, which means a lot to me. New domains, fantastic mates, inspiring future ...
 
 ***It is a rebirth, a new beginning ...***
