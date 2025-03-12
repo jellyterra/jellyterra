@@ -94,11 +94,11 @@ Project organizations.
 
 - 8A4D 52DC 8F88 4F06 on Mar 1, 2024: GPG keypair lost, all commits signed with it are now marked "Unverified".
 - BF65 7865 AA3A BC32 on Mar 11, 2025: private key lost because I exported moved-to-card renewal private key to the same path of expired private key so it's overwritten and gone. **What a pity, I really love this key id sequence!**
-- **E644 440D CB00 0C41** is the GPG key **now in use**.
+- ***E644 440D CB00 0C41*** is the GPG key ***now in use***.
 
 ### Bookshelf
 
-[These]((https://www.jellyterra.com) are the paper books I own below. My reading has switched to e-books from **shadow libraries** to save costs since 2023.
+[These](https://www.jellyterra.com) are the paper books I own below. My reading has switched to e-books from **shadow libraries** to save costs since 2023.
 
 My first GitHub account was registered in 2017 for GitHub Pages.
 
