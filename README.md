@@ -92,9 +92,9 @@ Project organizations.
 
 ### Security Notices
 
-- 8A4D 52DC 8F88 4F06 on Mar 1, 2024: GPG keypair lost, all commits signed with it are now marked "Unverified".
-- BF65 7865 AA3A BC32 on Mar 11, 2025: private key lost because I exported moved-to-card renewal private key to the same path of expired private key so it's overwritten and gone. **What a pity, I really love this key id sequence!**
-- ***E644 440D CB00 0C41*** is the GPG key ***now in use***.
+- *8A4D 52DC 8F88 4F06* on Mar 1, 2024: GPG keypair lost, all commits signed with it are now marked "Unverified".
+- *BF65 7865 AA3A BC32* on Mar 11, 2025: private key lost because I exported moved-to-card renewal private key to the same path of expired private key so it's overwritten and gone. **What a pity, I really love this key id sequence!**
+- **E644 440D CB00 0C41** is the GPG key ***now in use***.
 
 ### Bookshelf
 
@@ -102,7 +102,7 @@ Project organizations.
 
 [These](https://www.jellyterra.com) are the paper books I own below, which may reflect what I am intersted in different periods.
 
-My reading has switched to e-books from **shadow libraries** to save costs since 2023.
+My reading has switched to e-books in **shadow libraries** to save costs since 2023.
 
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787115290366) 2017 Go语言编程
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787115452511) 2017 Go并发编程实战
