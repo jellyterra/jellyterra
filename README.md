@@ -98,7 +98,7 @@ Project organizations.
 
 ### Bookshelf
 
-***The gears of fate begin to turn. And how?***
+***The gears of fate begin to turn. And how it happens?***
 
 [These](https://www.jellyterra.com) are the paper books I own below, which may reflect what I am intersted in different periods.
 
@@ -115,7 +115,7 @@ My reading has switched to e-books in **shadow libraries** to save costs since 2
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787121246142) 2020 Computer Graphics with OpenGL (4th Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787508386980) 2020 Tomcat: The Definitive Guide (2nd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787121315589) 2021 印制电路板（PCB）设计技术与实践（第三版）
-- 📖 [ISBN](https://isbnsearch.org/isbn/9787111544937) 2022 Computer Systems: Aprogrammer's Perspective (3rd Edition)
+- 📖 [ISBN](https://isbnsearch.org/isbn/9787111544937) 2022 Computer Systems: A Programmer's Perspective (3rd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111631972) 2022 Gettings started with LLVM core libraries
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111652144) 2023 Computer Organization and Design: The Hardware/Software Interface, RISC-V Edition (5th Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787115565693) 2024  Computer Architecture: A Quantitative Approach (6th Edition)
@@ -133,4 +133,4 @@ Writing about my past, is my way of making peace with self, a way to comfort sel
 
 And all the passion came back again since 2023, which means a lot to me. New domains, fantastic mates, inspiring future ...
 
-***It is a rebirth, a new beginning ...***
+> It is a rebirth, a new beginning ...
