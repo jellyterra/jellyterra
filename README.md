@@ -62,11 +62,7 @@ I hope my life to be fulfilling and my visions about technologies and society to
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/jellyterra)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/BHjax2qdWn)
 [![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://matrix.to/#/@jellyterra:gitter.im)
-
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/jellyterra)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/443340304)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/t7l8rdnzrcne9lcgnp97hlk4b)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300.svg?style=for-the-badge&logo=SoundCloud&logoColor=white)](https://soundcloud.com/jellyterra)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
 
 <a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" title="Jelly Terra's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact&custom_title=Wakatime%20Stats%20since%20Mar%2010%202024"/></a>
