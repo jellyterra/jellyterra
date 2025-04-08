@@ -1,24 +1,17 @@
-### 👏 Hey there! Welcome and here is Jelly Terra!
+# Jelly Terra
 
-<a href="https://jellyterra.com"><img align="right" width="50%" title="JellyTerra's Stats" src="https://github-readme-stats.vercel.app/api?username=jellyterra&show_icons=true&theme=radical"/></a>
-<a href="https://wakapi.jellyterra.com"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/></a>
+Focusing on:
 
--   💙 MBTI: ISTP [\[Virtuoso\]](https://www.16personalities.com/istp-personality)
--   ⌨️ NixOS/KDE. Linux user since 2016.
--   👾 Joined GitHub in **Feb 4th, 2017**, UID: 25548159 (deleted)
--   🦊 GitLab: [Jelly Terra](https://gitlab.com/jellyterra)
+- Programming language theory, program analysis and compiler.
+- Computer architecture.
+- Formal methods and verification.
 
-I am learning and working on:
+And sometimes do:
 
--   Compilers and program analysis
--   Digital hardware design
--   DIY circuit boards and applications
--   Infrastructure
--   Productivity and automation tools
-
-I have mainly focused on learning hardware architecture and PL theory since 2023.
-
-> I've lost all history of my past activities during 2017-2020 due to account deletion.
+- DIY somes PCBs, mainly to meet my requirements.
+- Develop micro web services and apps.
+- Write articles about infrastructure, techniques and mathematics.
+- Machine learning with JAX, Vision Transformer.
 
 ![](https://img.shields.io/badge/NixOS%20Linux-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![](https://img.shields.io/badge/KDE%20Plasma-1C94EB.svg?style=for-the-badge&logo=KDE&logoColor=white)
@@ -47,29 +40,30 @@ I have mainly focused on learning hardware architecture and PL theory since 2023
 ![](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
 
-<a href="" target="_blank">
-    <img align="right" width="40%" title="Jelly Terra's README.md views since Apr 4, 2024" src="https://count.getloli.com/get/@jellyterra?theme=moebooru/">
+<a href="https://twitter.com/jellyterra" target="_blank">
+    <img align="right" width="40%" title="Profile views since Apr 4, 2024" src="https://count.getloli.com/get/@jellyterra?theme=moebooru/">
 </a>
 
-Life is short. Three twenty of years is not enough to do many things.
+> All history of my past activities during 2017-2020 is lost due to account deletion.
+
+Life is short. is not enough to do many things.
 I hope my life to be fulfilling and my visions about technologies and society to become true.
 
-### Contact
+### GPG
 
-> Zeit und Raum trennen dich und mich.<br/>
-> Informatik verbindet dich und mich.
+- *8A4D 52DC 8F88 4F06* ends on 2024.03.01: GPG keypair lost, all commits signed with it are now marked "Unverified".
+- *BF65 7865 AA3A BC32* ends on 2025.03.11: private key lost because I exported moved-to-card renewal private key to the same path of expired private key so it's overwritten and gone. **What a pity, I really love this key id sequence!**
+- **E644 440D CB00 0C41** is the GPG key ***now in use***.
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/jellyterra)
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/BHjax2qdWn)
-[![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://matrix.to/#/@jellyterra:gitter.im)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://get.jellyterra.com/url/p/telegram)
+[![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://get.jellyterra.com/url/p/matrix)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/jellyterra)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
-
-<a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" title="Jelly Terra's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact&custom_title=Wakatime%20Stats%20since%20Mar%2010%202024"/></a>
+[![Open Collective](https://img.shields.io/badge/Open%20Collective-7FADF2.svg?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/jellyterra)
 
 ### Navigation
 
-Project organizations.
+Project organizations. Mostly WIP.
 
 | Name                                              | Description                            |
 |---------------------------------------------------|----------------------------------------|
@@ -82,19 +76,12 @@ Project organizations.
 | [Dashanalytics](https://github.com/dashanalytics) | Web traffic analysis                   | 
 | [Pagine](https://github.com/webpagine)            | Web generator (available and archived) |
 
-### Sponsor
+### Status
 
-[![Open Collective](https://img.shields.io/badge/Open%20Collective-7FADF2.svg?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/jellyterra)
+<a href="https://wakapi.jellyterra.com"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/></a>
+<a href="https://wakatime.com/@jellyterra"><img width="50%" title="Jelly Terra's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact&custom_title=Wakatime%20Stats%20since%20Mar%2010%202024"/></a>
 
-### Security Notices
-
-- *8A4D 52DC 8F88 4F06* on Mar 1, 2024: GPG keypair lost, all commits signed with it are now marked "Unverified".
-- *BF65 7865 AA3A BC32* on Mar 11, 2025: private key lost because I exported moved-to-card renewal private key to the same path of expired private key so it's overwritten and gone. **What a pity, I really love this key id sequence!**
-- **E644 440D CB00 0C41** is the GPG key ***now in use***.
-
-### Bookshelf
-
-***The gears of fate begin to turn. And how it happens?***
+### Timeline
 
 [These](https://www.jellyterra.com) are the paper books I own below, which may reflect what I am intersted in different periods.
 
@@ -123,10 +110,8 @@ My reading has switched to e-books in **shadow libraries** to save costs since 2
 
 My first GitHub account was registered in 2017 for GitHub Pages.
 
-Writing about my past, is my way of making peace with self, a way to comfort self.
+Writing about my past, is my way of making peace with self, comforting myself.
 
 [Here](https://www.jellyterra.com) are the ideas and repos I've **dropped** in the past. Most of them were just ideas and had not been fully implemented.
 
-And all the passion came back again since 2023, which means a lot to me. New domains, fantastic mates, inspiring future ...
-
-> It is a rebirth, a new beginning ...
+And all the passion came back again since 2023, which means a lot to me. New domains, fantastic mates, inspiring future ... which is a rebirth, a new beginning.
