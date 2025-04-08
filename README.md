@@ -72,9 +72,9 @@ Project organizations. Mostly WIP.
 | [Symonarch](https://github.com/symonarch)         | Hardware designs                       |
 | [Circuitrus](https://github.com/circuitrus)       | EDA                                    |
 | [Holiday Paint](https://github.com/paint-board)   | Public canvas                          | 
-| [AutoDNS](https://github.com/autodns)             | Centralized DNS management             | 
-| [Dashanalytics](https://github.com/dashanalytics) | Web traffic analysis                   | 
-| [Pagine](https://github.com/webpagine)            | Web generator (available and archived) |
+| [AutoDNS](https://github.com/autodns)             | Centralized DNS management (released)  | 
+| [Dashanalytics](https://github.com/dashanalytics) | Web traffic analysis (released)        | 
+| [Pagine](https://github.com/webpagine)            | Web generator (released and archived)  |
 
 ### Status
 
@@ -83,7 +83,7 @@ Project organizations. Mostly WIP.
 
 ### Timeline
 
-[These](https://www.jellyterra.com) are the paper books I own below, which may reflect what I am intersted in different periods.
+[These](https://www.jellyterra.com/#bookshelf) are the paper books I own below, which may reflect what I am intersted in different periods.
 
 My reading has switched to e-books in **shadow libraries** to save costs since 2023.
 
@@ -112,6 +112,6 @@ My first GitHub account was registered in 2017 for GitHub Pages.
 
 Writing about my past, is my way of making peace with self, comforting myself.
 
-[Here](https://www.jellyterra.com) are the ideas and repos I've **dropped** in the past. Most of them were just ideas and had not been fully implemented.
+[Here](https://www.jellyterra.com/#lostfound) are the ideas and repos I've **dropped** in the past. Most of them were just ideas and had not been fully implemented.
 
 And all the passion came back again since 2023, which means a lot to me. New domains, fantastic mates, inspiring future ... which is a rebirth, a new beginning.
