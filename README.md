@@ -1,58 +1,54 @@
 # Jelly Terra
 
+<a href="https://www.jellyterra.com"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jellyterra&hide=prs"/></a>
+
 Focusing on:
 
-- Programming language theory, program analysis and compiler.
 - Computer architecture.
 - Formal methods and verification.
+- Programming language theory, program analysis and compiler.
 
-And sometimes do:
+<a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&custom_title=Wakatime%20in%207%20days&layout=compact"/></a>
 
-- DIY somes PCBs, mainly to meet my requirements.
-- Develop micro web services and apps.
+And sometimes:
+
+- Machine learning with JAX, Vision Transformer in CV.
 - Write articles about infrastructure, techniques and mathematics.
-- Machine learning with JAX, Vision Transformer.
+- Develop micro web services and apps.
+- DIY somes PCBs, mainly to meet my requirements.
+- STM32 and ESP32 applications.
+
+Workstation with IDEA and VSCode on NixOS/Plasma (amd64).
+
+Servers with self-hosted services on Fedora (amd64) and ArchLinux (riscv64gcv).
 
 ![](https://img.shields.io/badge/NixOS%20Linux-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![](https://img.shields.io/badge/KDE%20Plasma-1C94EB.svg?style=for-the-badge&logo=KDE&logoColor=white)
 ![](https://img.shields.io/badge/VSCodium-1C94EB.svg?style=for-the-badge&logo=VSCodium&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ%20IDEA-EA3C6B.svg?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 
-![](https://img.shields.io/badge/Vue-4FC08D.svg?style=for-the-badge&logo=Vuedotjs&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/Go-00A7D0.svg?style=for-the-badge&logo=Go&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
-![](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)
-![](https://img.shields.io/badge/Rust-FFC832.svg?style=for-the-badge&logo=Rust&logoColor=black)
-![](https://img.shields.io/badge/C/C++-F34B7D.svg?style=for-the-badge&logo=CPlusPlus&logoColor=white)
-![](https://img.shields.io/badge/Scala-D73222.svg?style=for-the-badge&logo=Scala&logoColor=white)
-![](https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white)
-
 ![](https://img.shields.io/badge/ArchLinux-1793D1.svg?style=for-the-badge&logo=ArchLinux&logoColor=white)
 ![](https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
-![](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![](https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-
+![](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
 
 ![](https://img.shields.io/badge/Xilinx%20Zynq-000000.svg?style=for-the-badge&logo=AMD&logoColor=white&logoSize=auto)
 ![](https://img.shields.io/badge/RISCV-283272.svg?style=for-the-badge&logo=RISC-V&logoColor=f5b213)
 ![](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
 
-<a href="https://twitter.com/jellyterra" target="_blank">
-    <img align="right" width="40%" title="Profile views since Apr 4, 2024" src="https://count.getloli.com/get/@jellyterra?theme=moebooru/">
-</a>
-
-> All history of my past activities during 2017-2020 is lost due to account deletion.
-
-Life is short. is not enough to do many things.
-I hope my life to be fulfilling and my visions about technologies and society to become true.
+![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![](https://img.shields.io/badge/Go-00A7D0.svg?style=for-the-badge&logo=Go&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+![](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)
+![](https://img.shields.io/badge/Rust-FFC832.svg?style=for-the-badge&logo=Rust&logoColor=black)
+![](https://img.shields.io/badge/Scala-D73222.svg?style=for-the-badge&logo=Scala&logoColor=white)
+![](https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white)
 
 ### GPG
 
-- *8A4D 52DC 8F88 4F06* ends on 2024.03.01: GPG keypair lost, all commits signed with it are now marked "Unverified".
-- *BF65 7865 AA3A BC32* ends on 2025.03.11: private key lost because I exported moved-to-card renewal private key to the same path of expired private key so it's overwritten and gone. **What a pity, I really love this key id sequence!**
+- *8A4D 52DC 8F88 4F06* ends on 2024.03.01: GPG keypair lost, all commits signed with it are now marked "Unverified"
+- *BF65 7865 AA3A BC32* ends on 2025.03.11: private key lost because I exported moved-to-card renewal private key to the same path of expired private key so it's overwritten and gone. What a pity, I really love this key id sequence!
 - **E644 440D CB00 0C41** is the GPG key ***now in use***.
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://get.jellyterra.com/url/p/telegram)
@@ -75,11 +71,6 @@ Project organizations. Mostly WIP.
 | [AutoDNS](https://github.com/autodns)             | Centralized DNS management (released)  | 
 | [Dashanalytics](https://github.com/dashanalytics) | Web traffic analysis (released)        | 
 | [Pagine](https://github.com/webpagine)            | Web generator (released and archived)  |
-
-### Status
-
-<a href="https://wakapi.jellyterra.com"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact"/></a>
-<a href="https://wakatime.com/@jellyterra"><img width="50%" title="Jelly Terra's Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact&custom_title=Wakatime%20Stats%20since%20Mar%2010%202024"/></a>
 
 ### Timeline
 
@@ -105,6 +96,13 @@ My reading has switched to e-books in **shadow libraries** to save costs since 2
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111697404) 2024 Pratical Foundations for Programming Languages (2nd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787308249591) 2024 RISC-V CPU 芯片设计：香山源代码剖析<br/>^ got on the **RISC-V Summit China 2024** Day 2 activity **香山 Tutorial**
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111302872) 2025 Database System Implementation (2nd Edition)
+
+> All history of my past GitHub activities during 2017-2020 is lost due to account deletion.
+
+Life is short, is not enough to do many things.
+But I hope my life to be fulfilling and my visions about technologies and society to become true.
+
+<a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
 
 ### lost+found
 
