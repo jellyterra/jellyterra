@@ -1,6 +1,6 @@
 # Jelly Terra
 
-<a href="https://wakapi.jellyterra.com"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakatime%20in%207%20days&layout=compact"/></a>
+<a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakatime%20in%207%20days&layout=compact"/></a>
 
 Focusing on:
 
