@@ -103,13 +103,3 @@ Life is short, is not enough to do many things.
 But I hope my life to be fulfilling and my visions about technologies and society to become true.
 
 <a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
-
-### lost+found
-
-My first GitHub account was registered in 2017 for GitHub Pages.
-
-Writing about my past, is my way of making peace with self, comforting myself.
-
-[Here](https://www.jellyterra.com/#lostfound) are the ideas and repos I've **dropped** in the past. Most of them were just ideas and had not been fully implemented.
-
-And all the passion came back again since 2023, which means a lot to me. New domains, fantastic mates, inspiring future ... which is a rebirth, a new beginning.
