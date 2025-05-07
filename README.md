@@ -37,14 +37,6 @@ Servers with self-hosted services on Fedora (amd64) and ArchLinux (riscv64gcv).
 ![](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
 
-![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/Go-00A7D0.svg?style=for-the-badge&logo=Go&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
-![](https://img.shields.io/badge/OCaml-EC6813.svg?style=for-the-badge&logo=OCaml&logoColor=white)
-![](https://img.shields.io/badge/Rust-FFC832.svg?style=for-the-badge&logo=Rust&logoColor=black)
-![](https://img.shields.io/badge/Scala-D73222.svg?style=for-the-badge&logo=Scala&logoColor=white)
-![](https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white)
-
 ### GPG
 
 - *8A4D 52DC 8F88 4F06* ends on 2024.03.01: GPG keypair lost, all commits signed with it are now marked "Unverified"
