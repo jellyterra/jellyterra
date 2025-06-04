@@ -8,7 +8,7 @@ Focusing on:
 - Formal methods and verification.
 - Programming language theory, program analysis and compiler.
 
-<a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&custom_title=Wakatime%20in%207%20days&layout=compact"/></a>
+<a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&theme=nightowl&layout=compact&custom_title=Wakatime%20in%20last%207%20days"/></a>
 
 And sometimes:
 
@@ -94,4 +94,4 @@ My reading has switched to e-books in **shadow libraries** to save costs since 2
 Life is short, is not enough to do many things.
 But I hope my life to be fulfilling and my visions about technologies and society to become true.
 
-<a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
+<a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&theme=nightowl&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
