@@ -1,6 +1,6 @@
 # Hi there. This is Jelly Terra.
 
-<a href="https://www.jellyterra.com"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jellyterra&hide=prs"/></a>
+<a href="https://www.jellyterra.com"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jellyterra&hide=prs&theme=dracula"/></a>
 
 Focusing on:
 
