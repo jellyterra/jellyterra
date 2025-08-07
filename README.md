@@ -49,9 +49,12 @@ Servers with self-hosted services on Fedora (amd64) and ArchLinux (riscv64gcv).
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-7FADF2.svg?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/jellyterra)
 
+<details>
+<summary><h3>Expand for More</h3></summary>
+
 ### Navigation
 
-Project organizations. Mostly WIP.
+In maintainance. Mostly WIP.
 
 | Name                                              | Description                            |
 |---------------------------------------------------|----------------------------------------|
@@ -68,18 +71,17 @@ Project organizations. Mostly WIP.
 
 [These](https://www.jellyterra.com/#bookshelf) are the paper books I own below, which may reflect what I am intersted in different periods.
 
-My reading has switched to e-books in **shadow libraries** to save costs since 2023.
+My reading has turned to e-books in shadow libraries to save costs since 2023.
 
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787115290366) 2017 Programming in Go
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787115452511) 2017 Concurrent Programming Practices in Go
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787115130228) 2018 C Primer Plus (5th Edition)<br/>^ primary school graduation gift from my teacher Zhang
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111421900) 2018 Understainding the JVM: Advanced Features and Best Practices (2nd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787508353944) 2018 Understanding the Linux Kernel (3rd Edition)
-- 📖 [ISBN](https://isbnsearch.org/isbn/9787302231578) 2019 Electronic Circuit Design from Scratch (2nd Edition)<br/>^ gift from [@lizhirui](https://github.com/lizhirui) and his employer Wan
+- 📖 [ISBN](https://isbnsearch.org/isbn/9787302231578) 2019 Electronic Circuit Design from Scratch (2nd Edition)<br/>^ Gave by [@lizhirui](https://github.com/lizhirui) and his employer Wan
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111575115) 2019 OpenGL Programming Guide (9th Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111251217) 2019 Compilers: Principles, Techniques and Tools (2nd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787121246142) 2020 Computer Graphics with OpenGL (4th Edition)
-- 📖 [ISBN](https://isbnsearch.org/isbn/9787508386980) 2020 Tomcat: The Definitive Guide (2nd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787121315589) 2021 PCB Design Techniques and Practices (3rd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111544937) 2022 Computer Systems: A Programmer's Perspective (3rd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111631972) 2022 Gettings started with LLVM core libraries
@@ -89,9 +91,20 @@ My reading has switched to e-books in **shadow libraries** to save costs since 2
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787308249591) 2024 RISC-V CPU Chip Design: Xiangshan Sourcecode Profiling<br/>^ got on the **RISC-V Summit China 2024** Day 2 activity **Xiangshan Tutorial**
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111302872) 2025 Database System Implementation (2nd Edition)
 
+Gave by zha and Ezl1zz:
+
+- 📖 [ISBN](https://isbnsearch.org/isbn/9787111602057) 2025 Introduction to the Theory of Computation (3rd Edition)
+- 📖 [ISBN](https://isbnsearch.org/isbn/9787111213970) 2025 Logic in Computer Science: Modelling and Reasoning about Systems (2nd Edition)
+- 📖 [ISBN](https://isbnsearch.org/isbn/9787111678229) 2025 Speficying Systems: The TLA+ Language and Tools for Hardware and Software Engineers
+- 📖 [ISBN](https://isbnsearch.org/isbn/9787519821968) 2025 Designing Data-Intensive Applications
+- 📖 [ISBN](https://isbnsearch.org/isbn/9787564183677) 2025 Streaming Systems
+
 > All history of my past GitHub activities during 2017-2020 is lost due to account deletion.
 
-Life is short, is not enough to do many things.
-But I hope my life to be fulfilling and my visions about technologies and society to become true.
+> Life is short, is not enough to do many things.
+>
+> But I hope my life to be fulfilling and my visions about technologies and society to become true.
 
 <a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&theme=nightowl&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
+
+</details>
