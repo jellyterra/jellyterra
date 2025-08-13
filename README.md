@@ -49,8 +49,10 @@ Servers with self-hosted services on Fedora (amd64) and ArchLinux (riscv64gcv).
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-7FADF2.svg?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/jellyterra)
 
+[![](https://github.com/user-attachments/assets/b07975fc-1c49-4dbb-bf61-a9eedd8b0492)](https://www.jellyterra.com)
+
 <details>
-<summary><h3>Expand for More</h3></summary>
+<summary><h2>Expand for More</h2></summary>
 
 ### Navigation
 
