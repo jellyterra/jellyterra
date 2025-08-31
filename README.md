@@ -10,11 +10,10 @@ Focusing on:
 
 <a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&theme=nightowl&layout=compact&custom_title=Wakatime%20in%20last%207%20days"/></a>
 
-And sometimes:
+Sometimes:
 
-- Machine learning with JAX, Vision Transformer in CV.
+- CV with Google JAX.
 - Write articles about infrastructure, techniques and mathematics.
-- Develop micro web services and apps.
 - DIY somes PCBs, mainly to meet my requirements.
 - STM32 and ESP32 applications.
 
