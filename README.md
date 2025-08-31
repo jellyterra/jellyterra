@@ -12,10 +12,9 @@ Focusing on:
 
 Sometimes:
 
-- CV with Google JAX.
-- Write articles about infrastructure, techniques and mathematics.
-- DIY somes PCBs, mainly to meet my requirements.
-- STM32 and ESP32 applications.
+- Train some computer vision models.
+- Write articles about network, infrastructure and math.
+- DIY somes PCBs, STM32 and ESP32 applications, mostly meet my needs.
 
 Workstation with IDEA and VSCode on NixOS/Plasma (amd64).
 
