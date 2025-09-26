@@ -49,9 +49,6 @@ Servers with self-hosted services on Fedora (amd64) and ArchLinux (riscv64gcv).
 
 [![](https://github.com/user-attachments/assets/b07975fc-1c49-4dbb-bf61-a9eedd8b0492)](https://www.jellyterra.com)
 
-<details>
-<summary><h2>Expand for More</h2></summary>
-
 ### Navigation
 
 In maintainance. Mostly WIP.
@@ -59,13 +56,24 @@ In maintainance. Mostly WIP.
 | Name                                              | Description                            |
 |---------------------------------------------------|----------------------------------------|
 | [LangVM](https://github.com/langvm)               | Compiler infrastructure                |
-| [JetERA](https://github.com/jetera-creative)      | Circuit board designs                  |
-| [Symonarch](https://github.com/symonarch)         | Hardware designs                       |
+| [JetERA](https://github.com/jetera-creative)      | Some circuit board designs mit my need |
+| [Syncorde](https://github.com/syncorde)           | Kit for network storage and exchange   |
+| [Symonarch](https://github.com/symonarch)         | CPU designs                            |
 | [Circuitrus](https://github.com/circuitrus)       | EDA                                    |
-| [Holiday Paint](https://github.com/paint-board)   | Public canvas                          | 
-| [AutoDNS](https://github.com/autodns)             | Centralized DNS management (released)  | 
-| [Dashanalytics](https://github.com/dashanalytics) | Web traffic analysis (released)        | 
+
+Released:
+
+| Name                                              | Description                            |
+|---------------------------------------------------|----------------------------------------|
+| [Xentrasolv](https://github.com/xentrasolv)       | Centralized DNS management (released)  |
+| [Dashanalytics](https://github.com/dashanalytics) | Web traffic analysis (released)        |
 | [Pagine](https://github.com/webpagine)            | Web generator (released and archived)  |
+
+Put on hold:
+
+| Name                                              | Description                            |
+|---------------------------------------------------|----------------------------------------|
+| [Holiday Paint](https://github.com/paint-board)   | Public canvas                          |
 
 ### Timeline
 
@@ -91,7 +99,7 @@ My reading has turned to e-books in shadow libraries to save costs since 2023.
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787308249591) 2024 RISC-V CPU Chip Design: Xiangshan Sourcecode Profiling<br/>^ got on the **RISC-V Summit China 2024** Day 2 activity **Xiangshan Tutorial**
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111302872) 2025 Database System Implementation (2nd Edition)
 
-Gave by zha and Ezl1zz:
+Given as gifts from zha and Ezl1zz:
 
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111602057) 2025 Introduction to the Theory of Computation (3rd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111213970) 2025 Logic in Computer Science: Modelling and Reasoning about Systems (2nd Edition)
@@ -106,5 +114,3 @@ Gave by zha and Ezl1zz:
 > But I hope my life to be fulfilling and my visions about technologies and society to become true.
 
 <a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&theme=nightowl&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
-
-</details>
