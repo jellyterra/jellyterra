@@ -56,7 +56,6 @@ In maintainance. Mostly WIP.
 | Name                                              | Description                            |
 |---------------------------------------------------|----------------------------------------|
 | [LangVM](https://github.com/langvm)               | Compiler infrastructure                |
-| [JetERA](https://github.com/jetera-creative)      | Some circuit board designs mit my need |
 | [Syncorde](https://github.com/syncorde)           | Kit for network storage and exchange   |
 | [Symonarch](https://github.com/symonarch)         | CPU designs                            |
 | [Circuitrus](https://github.com/circuitrus)       | EDA                                    |
