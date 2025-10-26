@@ -41,13 +41,13 @@ Servers with self-hosted services on Fedora (amd64) and ArchLinux (riscv64gcv).
 - *BF65 7865 AA3A BC32* ends on 2025.03.11: private key lost because I exported moved-to-card renewal private key to the same path of expired private key so it's overwritten and gone. What a pity, I really love this key id sequence!
 - **E644 440D CB00 0C41** is the GPG key ***now in use***.
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://get.jellyterra.com/url/p/telegram)
-[![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://get.jellyterra.com/url/p/matrix)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://www.jellyterra.com/redirect/t.me/jellyterra_chan)
+[![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://www.jellyterra.com/redirect/matrix.to/#/@jellyterra:matrix.org)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/jellyterra)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-7FADF2.svg?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/jellyterra)
 
-[![](https://github.com/user-attachments/assets/b07975fc-1c49-4dbb-bf61-a9eedd8b0492)](https://www.jellyterra.com)
+[![](https://www.jellyterra.com/static/tetoris.gif)](https://www.jellyterra.com)
 
 ### Navigation
 
