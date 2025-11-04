@@ -47,7 +47,8 @@ Servers with self-hosted services on Fedora (amd64) and ArchLinux (riscv64gcv).
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-7FADF2.svg?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/jellyterra)
 
-[![](https://www.jellyterra.com/static/tetoris.gif)](https://www.jellyterra.com)
+<details>
+<summary><h2>Expand for more</h2></summary>
 
 ### Navigation
 
@@ -113,3 +114,7 @@ Given as gifts from zha and Ezl1zz:
 > But I hope my life to be fulfilling and my visions about technologies and society to become true.
 
 <a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&theme=nightowl&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
+
+</details>
+
+[![](https://www.jellyterra.com/static/tetoris.gif)](https://www.jellyterra.com)
