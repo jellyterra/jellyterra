@@ -6,8 +6,6 @@
 - Formal methods and verification, PL theory, program analysis and compiler.
 - DIY somes little stuff like PCBs, STM32 and ESP32 apps which meet my needs.
 
-<a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&theme=nightowl&layout=compact&custom_title=Wakatime%20in%20last%207%20days"/></a>
-
 Workstation with IDEA and VSCode on Fedora/Nix/KDE (amd64).
 
 Self-hosted servers on a *riscv64gcv* single board computer.
@@ -38,6 +36,8 @@ Self-hosted servers on a *riscv64gcv* single board computer.
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/jellyterra)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-7FADF2.svg?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/jellyterra)
+
+<a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&theme=nightowl&layout=compact&custom_title=Wakatime%20in%20last%207%20days"/></a>
 
 <details>
 <summary><h2>Expand for more</h2></summary>
