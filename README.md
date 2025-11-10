@@ -2,23 +2,15 @@
 
 <a href="https://www.jellyterra.com"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jellyterra&hide=prs&theme=dracula"/></a>
 
-Focusing on:
-
 - Computer architecture.
-- Formal methods and verification.
-- Programming language theory, program analysis and compiler.
+- Formal methods and verification, PL theory, program analysis and compiler.
+- DIY somes little stuff like PCBs, STM32 and ESP32 apps which meet my needs.
 
 <a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&theme=nightowl&layout=compact&custom_title=Wakatime%20in%20last%207%20days"/></a>
 
-Sometimes:
+Workstation with IDEA and VSCode on Fedora/Nix/KDE (amd64).
 
-- Train some computer vision models.
-- Write articles about network, infrastructure and math.
-- DIY somes PCBs, STM32 and ESP32 applications, mostly meet my needs.
-
-Workstation with IDEA and VSCode on NixOS/Plasma (amd64).
-
-Servers with self-hosted services on Fedora (amd64) and ArchLinux (riscv64gcv).
+Self-hosted servers on a *riscv64gcv* single board computer.
 
 ![](https://img.shields.io/badge/NixOS%20Linux-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![](https://img.shields.io/badge/KDE%20Plasma-1C94EB.svg?style=for-the-badge&logo=KDE&logoColor=white)
@@ -37,8 +29,8 @@ Servers with self-hosted services on Fedora (amd64) and ArchLinux (riscv64gcv).
 
 ### GPG
 
-- *8A4D 52DC 8F88 4F06* ends on 2024.03.01: GPG keypair lost, all commits signed with it are now marked "Unverified"
-- *BF65 7865 AA3A BC32* ends on 2025.03.11: private key lost because I exported moved-to-card renewal private key to the same path of expired private key so it's overwritten and gone. What a pity, I really love this key id sequence!
+- *8A4D 52DC 8F88 4F06* ends on 2024.03.01: Lost.
+- *BF65 7865 AA3A BC32* ends on 2025.03.11: Lost too. What a pity, I really love this key id sequence, it's catchy!
 - **E644 440D CB00 0C41** is the GPG key ***now in use***.
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://www.jellyterra.com/redirect/t.me/jellyterra_chan)
@@ -75,18 +67,22 @@ Put on hold:
 |---------------------------------------------------|----------------------------------------|
 | [Holiday Paint](https://github.com/paint-board)   | Public canvas                          |
 
+> All my past GitHub activities during 2017-2020 is lost due to account deletion.
+
+<a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&theme=nightowl&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
+
 ### Timeline
 
-[These](https://www.jellyterra.com/#bookshelf) are the paper books I own below, which may reflect what I am intersted in different periods.
+I turned to E-books to save costs.
 
-My reading has turned to e-books in shadow libraries to save costs since 2023.
+[These](https://www.jellyterra.com/#bookshelf) are the physical books I have, which reflect my intersts in different periods.
 
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787115290366) 2017 Programming in Go
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787115452511) 2017 Concurrent Programming Practices in Go
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787115130228) 2018 C Primer Plus (5th Edition)<br/>^ primary school graduation gift from my teacher Zhang
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111421900) 2018 Understainding the JVM: Advanced Features and Best Practices (2nd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787508353944) 2018 Understanding the Linux Kernel (3rd Edition)
-- 📖 [ISBN](https://isbnsearch.org/isbn/9787302231578) 2019 Electronic Circuit Design from Scratch (2nd Edition)<br/>^ Gave by [@lizhirui](https://github.com/lizhirui) and his employer Wan
+- 📖 [ISBN](https://isbnsearch.org/isbn/9787302231578) 2019 Electronic Circuit Design from Scratch (2nd Edition)<br/>^ Given from @lizhirui's employer Wan
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111575115) 2019 OpenGL Programming Guide (9th Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111251217) 2019 Compilers: Principles, Techniques and Tools (2nd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787121246142) 2020 Computer Graphics with OpenGL (4th Edition)
@@ -106,15 +102,6 @@ Given as gifts from zha and Ezl1zz:
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111678229) 2025 Speficying Systems: The TLA+ Language and Tools for Hardware and Software Engineers
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787519821968) 2025 Designing Data-Intensive Applications
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787564183677) 2025 Streaming Systems
-
-> All history of my past GitHub activities during 2017-2020 is lost due to account deletion.
-
-> Life is short, is not enough to do many things.
->
-> But I hope my life to be fulfilling and my visions about technologies and society to become true.
-
-<a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&theme=nightowl&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
-
 </details>
 
 [![](https://www.jellyterra.com/static/tetoris.gif)](https://www.jellyterra.com)
