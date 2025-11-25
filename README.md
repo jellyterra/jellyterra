@@ -104,4 +104,4 @@ Given as gifts from zha and Ezl1zz:
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787564183677) 2025 Streaming Systems
 </details>
 
-[![](https://www.jellyterra.com/static/tetoris.gif)](https://www.jellyterra.com)
+[![](https://www.jellyterra.com/_static/tetoris.gif)](https://www.jellyterra.com)
