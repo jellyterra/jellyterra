@@ -107,6 +107,6 @@ Given as gifts from zha and Ezl1zz:
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787519821968) 2025 Designing Data-Intensive Applications
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787564183677) 2025 Streaming Systems
 
-<a href="#expand-for-more"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
-
 </details>
+
+<a href="#expand-for-more"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
