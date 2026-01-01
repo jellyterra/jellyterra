@@ -44,8 +44,6 @@ Self-hosted servers on a *riscv64gcv* single board computer.
 
 ### Expand for more
 
-<a href="#expand-for-more"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
-
 </summary>
 
 ### Navigation
@@ -109,6 +107,6 @@ Given as gifts from zha and Ezl1zz:
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787519821968) 2025 Designing Data-Intensive Applications
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787564183677) 2025 Streaming Systems
 
-[![](https://www.jellyterra.com/_static/tetoris.gif)](https://www.jellyterra.com)
+<a href="#expand-for-more"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
 
 </details>
