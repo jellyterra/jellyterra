@@ -1,6 +1,6 @@
 # Hi there. This is Jelly Terra.
 
-<!--a href="https://www.jellyterra.com"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jellyterra&hide=prs&theme=dracula"/></a-->
+<a href="https://www.jellyterra.com"><img align="right" width="50%" src="https://github-readme-stats-jellyterra.vercel.app/api?username=jellyterra&hide=prs&theme=dracula"/></a>
 
 - Computer architecture.
 - Formal methods and verification, PL theory, program analysis and compiler.
@@ -37,7 +37,7 @@ Self-hosted servers on a *riscv64gcv* single board computer.
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-7FADF2.svg?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/jellyterra)
 
-<!--a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&theme=nightowl&layout=compact&custom_title=Wakatime%20in%20last%207%20days"/></a-->
+<a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats-jellyterra.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&theme=nightowl&layout=compact&custom_title=Wakatime%20in%20last%207%20days"/></a>
 
 <details>
 <summary><h2>Expand for more</h2></summary>
@@ -69,7 +69,7 @@ Put on hold:
 
 > All my past GitHub activities during 2017-2020 is lost due to account deletion.
 
-<a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jellyterra&theme=nightowl&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
+<a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats-jellyterra.vercel.app/api/wakatime?username=jellyterra&theme=nightowl&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
 
 ### Timeline
 
