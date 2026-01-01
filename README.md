@@ -40,7 +40,10 @@ Self-hosted servers on a *riscv64gcv* single board computer.
 <a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats-jellyterra.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&theme=nightowl&layout=compact&custom_title=Wakatime%20in%20last%207%20days"/></a>
 
 <details>
-<summary><h2>Expand for more</h2></summary>
+<summary>
+<h2>Expand for more</h2><br/>
+<a href="#"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
+</summary>
 
 ### Navigation
 
@@ -102,6 +105,7 @@ Given as gifts from zha and Ezl1zz:
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111678229) 2025 Speficying Systems: The TLA+ Language and Tools for Hardware and Software Engineers
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787519821968) 2025 Designing Data-Intensive Applications
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787564183677) 2025 Streaming Systems
-</details>
 
 [![](https://www.jellyterra.com/_static/tetoris.gif)](https://www.jellyterra.com)
+
+</details>
