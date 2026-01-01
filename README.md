@@ -41,8 +41,11 @@ Self-hosted servers on a *riscv64gcv* single board computer.
 
 <details>
 <summary>
-<h2>Expand for more</h2><br/>
-<a href="#"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
+
+### Expand for more
+
+<a href="#expand-for-more"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
+
 </summary>
 
 ### Navigation
