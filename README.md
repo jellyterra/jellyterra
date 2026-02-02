@@ -39,16 +39,7 @@ Self-hosted servers on a *riscv64gcv* single board computer.
 
 <a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats-jellyterra.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&theme=nightowl&layout=compact&custom_title=Wakatime%20in%20last%207%20days"/></a>
 
-<details>
-<summary>
-
-### Expand for more
-
-</summary>
-
-### Navigation
-
-In maintainance. Mostly WIP.
+### WIP
 
 | Name                                              | Description                            |
 |---------------------------------------------------|----------------------------------------|
@@ -99,7 +90,7 @@ I turned to E-books to save costs.
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787308249591) 2024 RISC-V CPU Chip Design: Xiangshan Sourcecode Profiling<br/>^ got on the **RISC-V Summit China 2024** Day 2 activity **Xiangshan Tutorial**
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111302872) 2025 Database System Implementation (2nd Edition)
 
-Given as gifts from zha and Ezl1zz:
+Given books from zha and Ezl1zz:
 
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111602057) 2025 Introduction to the Theory of Computation (3rd Edition)
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787111213970) 2025 Logic in Computer Science: Modelling and Reasoning about Systems (2nd Edition)
@@ -107,6 +98,6 @@ Given as gifts from zha and Ezl1zz:
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787519821968) 2025 Designing Data-Intensive Applications
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787564183677) 2025 Streaming Systems
 
-</details>
+I also print some books.
 
 <a href="#expand-for-more"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
