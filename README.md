@@ -62,13 +62,21 @@ Put on hold:
 |---------------------------------------------------|----------------------------------------|
 | [Holiday Paint](https://github.com/paint-board)   | Public canvas                          |
 
+<a href="#timeline"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
+
+<details>
+
+<summary>
+
+### Click to expand
+
+</summary>
+
 > All my past GitHub activities during 2017-2020 is lost due to account deletion.
 
 <a href="https://wakatime.com/@jellyterra"><img width="50%" src="https://github-readme-stats-jellyterra.vercel.app/api/wakatime?username=jellyterra&theme=nightowl&layout=compact&custom_title=Wakatime%20since%202024.03.10"/></a>
 
 ### Timeline
-
-I turned to E-books to save costs.
 
 [These](https://www.jellyterra.com/#bookshelf) are the physical books I have, which reflect my intersts in different periods.
 
@@ -98,6 +106,4 @@ Given books from zha and Ezl1zz:
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787519821968) 2025 Designing Data-Intensive Applications
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787564183677) 2025 Streaming Systems
 
-I also print some books.
-
-<a href="#expand-for-more"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
+</details>
