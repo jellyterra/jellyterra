@@ -39,6 +39,16 @@ Self-hosted servers on a *riscv64gcv* single board computer.
 
 <a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats-jellyterra.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&theme=nightowl&layout=compact&custom_title=Wakatime%20in%20last%207%20days"/></a>
 
+<a href="#timeline"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
+
+<details>
+
+<summary>
+
+### Click to expand
+
+</summary>
+
 ### WIP
 
 | Name                                              | Description                            |
@@ -61,16 +71,6 @@ Put on hold:
 | Name                                              | Description                            |
 |---------------------------------------------------|----------------------------------------|
 | [Holiday Paint](https://github.com/paint-board)   | Public canvas                          |
-
-<a href="#timeline"><img src="https://www.jellyterra.com/_static/tetoris.gif"/></a>
-
-<details>
-
-<summary>
-
-### Click to expand
-
-</summary>
 
 > All my past GitHub activities during 2017-2020 is lost due to account deletion.
 
