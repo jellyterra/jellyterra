@@ -34,9 +34,9 @@ Self-hosted servers on a *riscv64gcv* single board computer.
 - [**5BF9 F77A 700C 99EA 57BA C097 9F1E 73C6 3BF1 99D1**](https://keys.openpgp.org/search?q=5BF9F77A700C99EA57BAC0979F1E73C63BF199D1) is the GPG key ***now in use***.
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://www.jellyterra.com/redirect/t.me/jellyterra_chan)
-[![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://www.jellyterra.com/redirect/matrix.to/#/@jellyterra:matrix.org)
+[![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://www.jellyterra.com/redirect/matrix.to/#/#jellyterra:matrix.org)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/jellyterra)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC_zuyydHhKA7AGrn4Sc1QeA)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@jellyterra)
 [![Open Collective](https://img.shields.io/badge/Open%20Collective-7FADF2.svg?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/jellyterra)
 
 <a href="https://wakatime.com/@jellyterra"><img align="right" width="50%" src="https://github-readme-stats-jellyterra.vercel.app/api/wakatime?username=jellyterra&api_domain=wakapi.jellyterra.com&theme=nightowl&layout=compact&custom_title=Wakatime%20in%20last%207%20days"/></a>
