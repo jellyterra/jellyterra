@@ -1,4 +1,21 @@
-# Hi there. This is Jelly Terra.
+### GPG
+
+```
+5BF9 F77A 700C 99EA 57BA C097 9F1E 73C6 3BF1 99D1 Jelly Terra <jellyterra@proton.me>
+```
+
+- `8A4D 52DC 8F88 4F06` expired on 2024.03.01: Lost.
+- `BF65 7865 AA3A BC32` expired on 2025.03.11: Lost. *What a pity, I really love this key id sequence, it's so catchy!*
+- `E644 440D CB00 0C41` expired on 2026.03.11: Ends.
+- [**5BF9 F77A 700C 99EA 57BA C097 9F1E 73C6 3BF1 99D1**](https://keys.openpgp.org/search?q=5BF9F77A700C99EA57BAC0979F1E73C63BF199D1) is the GPG key ***now in use***.
+
+<details>
+
+<summary>
+
+# ;) Hi there this is Jelly Terra <<<
+
+</summary>
 
 <a href="https://www.jellyterra.com"><img align="right" width="50%" src="https://github-readme-stats-jellyterra.vercel.app/api?username=jellyterra&hide=prs&theme=dracula"/></a>
 
@@ -25,13 +42,6 @@ Self-hosted servers on a *riscv64gcv* single board computer.
 ![](https://img.shields.io/badge/RISCV-283272.svg?style=for-the-badge&logo=RISC-V&logoColor=f5b213)
 ![](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![](https://img.shields.io/badge/ESP32-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white)
-
-### GPG
-
-- *8A4D 52DC 8F88 4F06* ends on 2024.03.01: Lost.
-- *BF65 7865 AA3A BC32* ends on 2025.03.11: Lost either. *What a pity, I really love this key id sequence, it's so catchy!*
-- *E644 440D CB00 0C41* expired on 2026.03.11
-- [**5BF9 F77A 700C 99EA 57BA C097 9F1E 73C6 3BF1 99D1**](https://keys.openpgp.org/search?q=5BF9F77A700C99EA57BAC0979F1E73C63BF199D1) is the GPG key ***now in use***.
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://www.jellyterra.com/redirect/t.me/jellyterra_chan)
 [![Matrix](https://img.shields.io/badge/Matrix-000000.svg?style=for-the-badge&logo=Element&logoColor=white)](https://www.jellyterra.com/redirect/matrix.to/#/#jellyterra:matrix.org)
@@ -101,3 +111,5 @@ Given books from zha and Ezl1zz:
 - 📖 [ISBN](https://isbnsearch.org/isbn/9787564183677) 2025 Streaming Systems
 
 E-books won't be shown above.
+
+</details>
