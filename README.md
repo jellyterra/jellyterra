@@ -9,11 +9,15 @@
 - `E644 440D CB00 0C41` expired on 2026.03.11: Ends.
 - [**5BF9 F77A 700C 99EA 57BA C097 9F1E 73C6 3BF1 99D1**](https://keys.openpgp.org/search?q=5BF9F77A700C99EA57BAC0979F1E73C63BF199D1) is the GPG key ***now in use***.
 
+### File Drop
+
+Send me file via [this ownCloud](https://owncloud.jellyterra.com:8443/s/tqSVYHZhHRixPno), password: `4High_Level_Synthesis`
+
 <details>
 
 <summary>
 
-# ;) Hi there this is Jelly Terra <<<
+# Hi there. Expand this for more ;)
 
 </summary>
 
